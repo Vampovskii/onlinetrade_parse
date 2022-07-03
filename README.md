@@ -1,2 +1,2 @@
-# onlinetrade_parsing
-This my project - onlinetrade.ru parsing
+# onlinetrade_parser
+This my project - onlinetrade.ru parser
